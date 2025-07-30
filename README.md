@@ -1,5 +1,7 @@
 # Scissors, Rock and Paper 
-A classic game: you vs the computer!
+A classic game: you vs the computer! This project taught me how to use Python to create an interactive game against the computer.  
+
+## What I learned
 
 ## What I learned  
 - Using Python's `random` module to make the computer's choice unpredictable
